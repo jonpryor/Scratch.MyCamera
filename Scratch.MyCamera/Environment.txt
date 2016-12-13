@@ -1,0 +1,2 @@
+MONO_LOG_LEVEL=info
+debug.mono.log=timing
